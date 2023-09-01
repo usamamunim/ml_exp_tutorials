@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dev/Documents/Projects/Mlops/mlflow/ml_exp_tutorial/mlruns/0/86c40ea040124c39b19293e059fc41b9/artifacts
+end_time: 1693595212144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86c40ea040124c39b19293e059fc41b9
+run_name: resilient-horse-91
+run_uuid: 86c40ea040124c39b19293e059fc41b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693595209756
+status: 3
+tags: []
+user_id: dev

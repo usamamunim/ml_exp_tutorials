@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/dev/Documents/Projects/Mlops/mlflow/ml_exp_tutorial/mlruns/0/5b95718edd464bc2be223394d6c6d4bb/artifacts
+end_time: 1693595266220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b95718edd464bc2be223394d6c6d4bb
+run_name: calm-turtle-607
+run_uuid: 5b95718edd464bc2be223394d6c6d4bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693595263819
+status: 3
+tags: []
+user_id: dev
