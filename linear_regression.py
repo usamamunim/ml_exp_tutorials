@@ -17,6 +17,8 @@ from mlflow.models import infer_signature
 import mlflow.sklearn
 
 import logging
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 
 logging.basicConfig(level=logging.WARN)
 logger = logging.getLogger(__name__)
